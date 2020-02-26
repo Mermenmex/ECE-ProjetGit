@@ -1,1 +1,1 @@
-# ECE-ProjetGit
+# ECE-ProjetGit conflict 1
